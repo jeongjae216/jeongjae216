@@ -1,7 +1,7 @@
 # 4월 14일까지 정리해야 할 List
 
 1. Objective-C와 Swift의 차이 ✅
-2. MVC, MVVM, MVP 디자인패턴의 차이
+2. MVC, MVVM, MVP 디자인패턴의 차이 ✅
 3. URLSession과 Alamofire의 차이
 4. RxSwift와 Combine은 무엇인가?
 5. OOP란 무엇인가?
