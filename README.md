@@ -4,7 +4,7 @@
 2. MVC, MVVM, MVP 디자인패턴의 차이 ✅
 3. URLSession과 Alamofire의 차이 ✅
 4. RxSwift와 Combine은 무엇인가? ✅
-5. OOP란 무엇인가?
+5. OOP란 무엇인가? ✅
 6. TDD란 무엇인가?
 7. HTTP와 HTTPS의 차이는 무엇인가?
 8. 오토레이아웃에서 Frame과 Bounds의 차이
