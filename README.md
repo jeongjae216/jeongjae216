@@ -1,4 +1,4 @@
-# 4월 14일까지 정리해야 할 List
+# 4월 14일까지 정리해야 할 List ✅
 
 1. Objective-C와 Swift의 차이 ✅
 2. MVC, MVVM, MVP 디자인패턴의 차이 ✅
