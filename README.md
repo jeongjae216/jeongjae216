@@ -7,7 +7,7 @@
 5. OOP란 무엇인가? ✅
 6. TDD란 무엇인가? ✅
 7. HTTP와 HTTPS의 차이는 무엇인가? ✅
-8. 오토레이아웃에서 Frame과 Bounds의 차이
+8. 오토레이아웃에서 Frame과 Bounds의 차이 ✅
 
 # 4월 21일까지 정리해야 할 List
 
