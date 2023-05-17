@@ -1,3 +1,5 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=112233&height=100&section=header&text=Welcome%20To%20LJJ's%20Github&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
 
 <br/>
@@ -15,5 +17,8 @@
 <p align="center">
 wjdwo216@plnc.co.kr
 
+<br/>
+<br/>
 
 ![jeongjae216's github stats](https://github-readme-stats.vercel.app/api?username=jeongjae216&show_icons=true&theme=city_lights)
+</div>
