@@ -1,8 +1,7 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=112233&height=100&section=header&text=Welcome%20To%20LJJ's%20Github&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55)
-
-<br/>
+# Welcome To LJJ's Github
+<!-- ![header](https://capsule-render.vercel.app/api?type=cylinder&color=112233&height=100&section=header&text=Welcome%20To%20LJJ's%20Github&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=55) -->
 
 <h3 align="center"><b>🙇🏻‍♂️ Introduce 🙇🏻‍♂️</b></h3>
   
