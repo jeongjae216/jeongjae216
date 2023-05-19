@@ -38,7 +38,7 @@ wjdwo216@plnc.co.kr
 
 <h3><b>🙇🏻‍♂️ Introduce 🙇🏻‍♂️</b></h3>
 
-Hello, My name is JeongJaeLee.   
+Hello, My name is Lee JeongJae.   
 I'm iOS Mobile Developer.   
 Nice To Meet U :)
 
