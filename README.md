@@ -31,7 +31,7 @@ wjdwo216@plnc.co.kr
 
 ![jeongjae216's github stats](https://github-readme-stats.vercel.app/api?username=jeongjae216&show_icons=true&theme=city_lights)
 </div> -->
-# *iOS Mobile Developer*, 항상 생각하는 개발자
+# *iOS Mobile Developer*, 하루 하루 성장하는 개발자
 
 ![](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white)
 ![](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
