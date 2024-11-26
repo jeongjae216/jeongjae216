@@ -24,7 +24,7 @@ Nice To Meet U :)
   
 <h3 align="center"><b>📧 E-Mail 📧</b></h3>
 
-wjdwo216@plnc.co.kr
+develope216@gmail.com
 
 <br/>
 <br/>
